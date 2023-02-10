@@ -1,4 +1,18 @@
 ### Hi there 👋
+My name is Alexandr
+
+🌱 I’m currently learning Java at Sky Pro
+
+📫 How to reach me: alex_penza@list.ru
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alex-niculita&row=1&column=6)](https://github.com/alex-niculita/github-profile-trophy)
+
+
+
+![image](https://www.codewars.com/users/alex_penza/badges/large)
+
+
 
 <!--
 **alex-niculita/alex-niculita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
