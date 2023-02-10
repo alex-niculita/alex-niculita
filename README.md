@@ -10,7 +10,7 @@ My name is Alexandr
 
 
 
-[![codewars](https://www.codewars.com/users/alex_penza/badges/large)](https://www.codewars.com/users/alex_penza/badges/large) 
+[![codewars](https://www.codewars.com/users/alex_penza/badges/large)](https://www.codewars.com/users/alex_penza/) 
 
 
 
