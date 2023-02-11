@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Alexandr
 
-🌱 I’m currently learning Java at Sky Pro
+🌱 I’m currently learning Java
 
 📫 How to reach me: alex_penza@list.ru
 
