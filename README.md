@@ -13,6 +13,8 @@ My name is Alexandr
 [![codewars](https://www.codewars.com/users/alex_penza/badges/large)](https://www.codewars.com/users/alex_penza/) 
 
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=alex-niculita&show_icons=true)](https://github.com/alex-niculita)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-niculita&layout=compact)](https://github.com/alex-niculita)
+
 
 
 <!--
