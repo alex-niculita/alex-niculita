@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Alexandr
 
-🌱 I’m currently learning Java
+🌱 I’m currently learning Spring
 
 📫 How to reach me: alex_penza@list.ru
 
