@@ -6,7 +6,7 @@ My name is Alexandr
 📫 How to reach me: alex_penza@list.ru
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alex-niculita&row=1&column=6)](https://github.com/alex-niculita/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alex-niculita&theme=gruvbox&row=1&column=6)](https://github.com/alex-niculita/github-profile-trophy)
 
 
 
